@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DominiqueNJ. A student in NanJing University.
+- 🌱 I’m currently learning C
+- 📫 How to reach me: 1292497841@qq.com
