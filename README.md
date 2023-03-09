@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @DominiqueNJ. A student in NanJing University.
-- 🌱 I’m currently learning C
-- 📫 How to reach me: 1292497841@qq.com
+- 👋 Hi, I’m @DominiqueNJ. (NJU IS 2024')
+- 🌱 I’m currently learning programming.
+- 📫 How to reach me: 201830165@smail.nju.edu.cn
