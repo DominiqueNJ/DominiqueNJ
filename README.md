@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @DominiqueNJ. (NJU IS 2024')
-- 🌱 I’m currently learning programming.
 - 📫 How to reach me: 201830165@smail.nju.edu.cn
