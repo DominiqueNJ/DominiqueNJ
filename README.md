@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @DominiqueNJ. (NJU 24' Yale 27')
-- 📫 How to reach me: 201830165@smail.nju.edu.cn; jun.ni@yale.edu.
+- 📫 How to reach me: jun_ni@smail.nju.edu.cn; jun.ni@yale.edu.
